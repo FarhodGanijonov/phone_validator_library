@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "uzb-phone-validator"
+version = "0.1.0"
+description = "O'zbekiston telefon raqamlarini validatsiya qilish uchun kutubxona"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+  { name="Farhod G'anijonov", email="farhodganijonov13@gmail.com" }
+]
+
+[project.urls]
+Homepage = "https://github.com/username/uzb-phone-validator"
+BugTracker = "https://github.com/username/uzb-phone-validator/issues"

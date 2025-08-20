@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: uzb-phone-validator
+Version: 0.1.0
+Summary: O'zbekiston telefon raqamlarini validatsiya qilish uchun kutubxona
+Author-email: Farhod G'anijonov <farhodganijonov13@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/username/uzb-phone-validator
+Project-URL: BugTracker, https://github.com/username/uzb-phone-validator/issues
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# uzb-phone-validator
+
+# O'zbekiston telefon raqamlarini validatsiya qilish uchun Python kutubxona.
+
+## O'rnatish
+
+```terminal / bash
+pip install uzb-phone-validator

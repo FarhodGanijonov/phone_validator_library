@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+tests/test_validator.py
+uzb_phone_validator/__init__.py
+uzb_phone_validator/validator.py
+uzb_phone_validator.egg-info/PKG-INFO
+uzb_phone_validator.egg-info/SOURCES.txt
+uzb_phone_validator.egg-info/dependency_links.txt
+uzb_phone_validator.egg-info/top_level.txt
